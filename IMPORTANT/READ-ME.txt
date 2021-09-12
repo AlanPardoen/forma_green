@@ -1,0 +1,18 @@
+Bonjour ce projet a été réalisé en flutter.
+
+
+Pour installer l'ensemble de l'environnement de dev (flutter + dart) et procéder au test.
+
+Je vous invite à suivre le tutoriel sous ce lien: https://flutter.dev/docs/get-started/install
+
+Les deux apk de l'application sont également disponibles dans ce dossier pour un test immédiat sous un téléphone android.
+
+
+Pour installer une apk sous android:
+
+https://www.frandroid.com/comment-faire/tutoriaux/184151_comment-installer-un-fichier-apk-sur-son-terminal-android 
+
+
+Merci de m'avoir lu,
+Bonne correction à vous.
+

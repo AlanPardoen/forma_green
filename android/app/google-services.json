@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286346352554",
+    "project_id": "formagreen-323918",
+    "storage_bucket": "formagreen-323918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286346352554:android:864ec1ff2b63acd2a13dd3",
+        "android_client_info": {
+          "package_name": "com.example.forma_green"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286346352554-oikpghv9ltegqrpffhe63as8om63m2l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq-BuloWvT0Clj10mqzwGMlL9WSDvdUQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286346352554-oikpghv9ltegqrpffhe63as8om63m2l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
